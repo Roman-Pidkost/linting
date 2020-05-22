@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "auto-code-style": {
@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "auto-code-style"
+    }
+  },
+  "defaultProject": "auto-code-style",
+  "cli": {
+    "analytics": "5d242dad-6018-42f8-aa7c-c3fe241e9be1"
+  }
 }
